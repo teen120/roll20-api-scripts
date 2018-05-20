@@ -397,3 +397,91 @@ pathfinderneceros:
 carrytokens:
 - "CarryTokens"
 - "Tokens"
+
+inspirationtracker:
+- "InspirationTracking"
+- "System Toolbox"
+
+bladescompanion:
+- "BladesCompanion"
+- "System Toolbox"
+
+itsatrapthemestarfinder:
+- "ItsATrap_theme_Starfinder"
+- "System Toolbox"
+
+genesysroller:
+- "Genesys-RPG-Roller"
+- "System Toolbox"
+
+cashmaster:
+- CashMaster
+- "System Toolbox"
+
+fireemblemtt:
+- "Xeohelios' Fire Emblem Tabletop Companion"
+- "System Toolbox"
+
+hexploration:
+- Hexploration
+- "Maps & Drawing"
+
+messageoftheday:
+- MotD
+- Chat
+
+forbiddenlandsdice:
+- Forbidden Lands Dice Roller
+- System Toolbox
+
+fengshuiinitiative:
+- Feng Shui Initiative
+- System Toolbox
+
+powercards:
+- PowerCards
+- Utility
+
+herotracker:
+- HeroTracker
+- System Toolbox
+
+statusinfo:
+- StatusInfo
+- Utility
+
+drunk:
+- Drunk
+- System Toolbox
+
+deathtracker:
+- DeathTracker
+- Utility
+
+concentration:
+- Concentration
+- System Toolbox
+
+resizer:
+- Resizer
+- Utility
+
+lazyexperience:
+- LazyExperience
+- System Toolbox
+
+inspirationtrack:
+- InspirationTracker
+- System Toolbox
+
+syncpage:
+- SyncPage
+- Utility
+
+combattracker:
+- CombatTracker
+- Utility
+
+movelighting:
+- moveLighting
+- Utility
